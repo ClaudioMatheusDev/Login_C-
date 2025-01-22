@@ -1,14 +1,34 @@
+using LoginPage.Data;
+using Microsoft.EntityFrameworkCore;
+
 namespace LoginPage
 {
     public class Program
-    {
+    {   
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            builder.Services.AddDistributedMemoryCache();
+            builder.Services.AddSession(options =>
+            {
+                options.IdleTimeout = TimeSpan.FromSeconds(30);
+            });
+
+
+            builder.Services.AddControllersWithViews();
+
+            builder.Services.AddDbContext<ApplicationDbContext>(options =>
+            {
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+            });
+
+       
+
+
             // Add services to the container.
             builder.Services.AddRazorPages();
-
+          
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
