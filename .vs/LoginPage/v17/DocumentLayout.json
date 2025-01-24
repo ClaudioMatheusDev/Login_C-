@@ -3,40 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Claudio Matheus\\Desktop\\Projetos\\C#\\Login\\LoginPage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA40EC74-7097-4AA8-B13A-7C0B8FFB4C69}|LoginPage\\LoginPage.csproj|c:\\users\\claudio matheus\\desktop\\projetos\\c#\\login\\loginpage\\loginpage\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AA40EC74-7097-4AA8-B13A-7C0B8FFB4C69}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AA40EC74-7097-4AA8-B13A-7C0B8FFB4C69}|LoginPage\\LoginPage.csproj|c:\\users\\claudio matheus\\desktop\\projetos\\c#\\login\\loginpage\\loginpage\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA40EC74-7097-4AA8-B13A-7C0B8FFB4C69}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA40EC74-7097-4AA8-B13A-7C0B8FFB4C69}|LoginPage\\LoginPage.csproj|c:\\users\\claudio matheus\\desktop\\projetos\\c#\\login\\loginpage\\loginpage\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA40EC74-7097-4AA8-B13A-7C0B8FFB4C69}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AA40EC74-7097-4AA8-B13A-7C0B8FFB4C69}|LoginPage\\LoginPage.csproj|c:\\users\\claudio matheus\\desktop\\projetos\\c#\\login\\loginpage\\loginpage\\pages\\home\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA40EC74-7097-4AA8-B13A-7C0B8FFB4C69}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\pages\\home\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AA40EC74-7097-4AA8-B13A-7C0B8FFB4C69}|LoginPage\\LoginPage.csproj|c:\\users\\claudio matheus\\desktop\\projetos\\c#\\login\\loginpage\\loginpage\\pages\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AA40EC74-7097-4AA8-B13A-7C0B8FFB4C69}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\pages\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA40EC74-7097-4AA8-B13A-7C0B8FFB4C69}|LoginPage\\LoginPage.csproj|c:\\users\\claudio matheus\\desktop\\projetos\\c#\\login\\loginpage\\loginpage\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA40EC74-7097-4AA8-B13A-7C0B8FFB4C69}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA40EC74-7097-4AA8-B13A-7C0B8FFB4C69}|LoginPage\\LoginPage.csproj|c:\\users\\claudio matheus\\desktop\\projetos\\c#\\login\\loginpage\\loginpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA40EC74-7097-4AA8-B13A-7C0B8FFB4C69}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA40EC74-7097-4AA8-B13A-7C0B8FFB4C69}|LoginPage\\LoginPage.csproj|c:\\users\\claudio matheus\\desktop\\projetos\\c#\\login\\loginpage\\loginpage\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AA40EC74-7097-4AA8-B13A-7C0B8FFB4C69}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA40EC74-7097-4AA8-B13A-7C0B8FFB4C69}|LoginPage\\LoginPage.csproj|c:\\users\\claudio matheus\\desktop\\projetos\\c#\\login\\loginpage\\loginpage\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AA40EC74-7097-4AA8-B13A-7C0B8FFB4C69}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA40EC74-7097-4AA8-B13A-7C0B8FFB4C69}|LoginPage\\LoginPage.csproj|c:\\users\\claudio matheus\\desktop\\projetos\\c#\\login\\loginpage\\loginpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AA40EC74-7097-4AA8-B13A-7C0B8FFB4C69}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA40EC74-7097-4AA8-B13A-7C0B8FFB4C69}|LoginPage\\LoginPage.csproj|c:\\users\\claudio matheus\\desktop\\projetos\\c#\\login\\loginpage\\loginpage\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA40EC74-7097-4AA8-B13A-7C0B8FFB4C69}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,53 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Claudio Matheus\\Desktop\\Projetos\\C#\\Login\\LoginPage\\LoginPage\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "LoginPage\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Claudio Matheus\\Desktop\\Projetos\\C#\\Login\\LoginPage\\LoginPage\\Pages\\Index.cshtml",
-              "RelativeToolTip": "LoginPage\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T20:44:02.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Claudio Matheus\\Desktop\\Projetos\\C#\\Login\\LoginPage\\LoginPage\\Pages\\Error.cshtml",
-              "RelativeDocumentMoniker": "LoginPage\\Pages\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Claudio Matheus\\Desktop\\Projetos\\C#\\Login\\LoginPage\\LoginPage\\Pages\\Error.cshtml",
-              "RelativeToolTip": "LoginPage\\Pages\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T20:21:26.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Claudio Matheus\\Desktop\\Projetos\\C#\\Login\\LoginPage\\LoginPage\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "LoginPage\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Claudio Matheus\\Desktop\\Projetos\\C#\\Login\\LoginPage\\LoginPage\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "LoginPage\\Pages\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T20:21:25.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Claudio Matheus\\Desktop\\Projetos\\C#\\Login\\LoginPage\\LoginPage\\Pages\\Home\\login.cshtml",
-              "RelativeDocumentMoniker": "LoginPage\\Pages\\Home\\login.cshtml",
-              "ToolTip": "C:\\Users\\Claudio Matheus\\Desktop\\Projetos\\C#\\Login\\LoginPage\\LoginPage\\Pages\\Home\\login.cshtml",
-              "RelativeToolTip": "LoginPage\\Pages\\Home\\login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T20:18:35.41Z",
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Claudio Matheus\\Desktop\\Projetos\\C#\\Login\\LoginPage\\LoginPage\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "LoginPage\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Claudio Matheus\\Desktop\\Projetos\\C#\\Login\\LoginPage\\LoginPage\\Models\\Usuario.cs",
+              "RelativeToolTip": "LoginPage\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T01:43:09.75Z",
               "EditorCaption": ""
             },
             {
@@ -108,61 +49,35 @@
               "RelativeDocumentMoniker": "LoginPage\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\Claudio Matheus\\Desktop\\Projetos\\C#\\Login\\LoginPage\\LoginPage\\Controllers\\AccountController.cs",
               "RelativeToolTip": "LoginPage\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAIA9wBkAAABmAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwDAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T19:59:18.091Z",
+              "WhenOpened": "2025-01-24T01:38:40.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Claudio Matheus\\Desktop\\Projetos\\C#\\Login\\LoginPage\\LoginPage\\Pages\\Home\\login.cshtml.cs",
+              "RelativeDocumentMoniker": "LoginPage\\Pages\\Home\\login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Claudio Matheus\\Desktop\\Projetos\\C#\\Login\\LoginPage\\LoginPage\\Pages\\Home\\login.cshtml.cs",
+              "RelativeToolTip": "LoginPage\\Pages\\Home\\login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T01:36:40.793Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Claudio Matheus\\Desktop\\Projetos\\C#\\Login\\LoginPage\\LoginPage\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "LoginPage\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Claudio Matheus\\Desktop\\Projetos\\C#\\Login\\LoginPage\\LoginPage\\Models\\Usuario.cs",
-              "RelativeToolTip": "LoginPage\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T19:41:50.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Claudio Matheus\\Desktop\\Projetos\\C#\\Login\\LoginPage\\LoginPage\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "LoginPage\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Claudio Matheus\\Desktop\\Projetos\\C#\\Login\\LoginPage\\LoginPage\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "LoginPage\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T19:39:50.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Claudio Matheus\\Desktop\\Projetos\\C#\\Login\\LoginPage\\LoginPage\\Program.cs",
-              "RelativeDocumentMoniker": "LoginPage\\Program.cs",
-              "ToolTip": "C:\\Users\\Claudio Matheus\\Desktop\\Projetos\\C#\\Login\\LoginPage\\LoginPage\\Program.cs",
-              "RelativeToolTip": "LoginPage\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAD4vw0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T19:24:29.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Claudio Matheus\\Desktop\\Projetos\\C#\\Login\\LoginPage\\LoginPage\\appsettings.json",
-              "RelativeDocumentMoniker": "LoginPage\\appsettings.json",
-              "ToolTip": "C:\\Users\\Claudio Matheus\\Desktop\\Projetos\\C#\\Login\\LoginPage\\LoginPage\\appsettings.json",
-              "RelativeToolTip": "LoginPage\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-22T19:24:31.702Z",
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Claudio Matheus\\Desktop\\Projetos\\C#\\Login\\LoginPage\\LoginPage\\Pages\\Home\\login.cshtml",
+              "RelativeDocumentMoniker": "LoginPage\\Pages\\Home\\login.cshtml",
+              "ToolTip": "C:\\Users\\Claudio Matheus\\Desktop\\Projetos\\C#\\Login\\LoginPage\\LoginPage\\Pages\\Home\\login.cshtml",
+              "RelativeToolTip": "LoginPage\\Pages\\Home\\login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T01:34:54.774Z",
               "EditorCaption": ""
             }
           ]
