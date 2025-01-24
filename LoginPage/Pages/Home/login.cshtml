@@ -1,13 +1,15 @@
-﻿@{
+﻿@model Models.Usuario
+
+@{
     ViewData["Title"] = "Login";
 }
 
 
 <h2> ViewData["Title"]</h2>
 
-<Form method="post">
+<Form method="post" asp-controller="AccountController" asp-action="home">
     <div class="form-group">
-    <label for="email">E-mail</label>
+    <label for="">E-mail</label>
      <input type="email" name="email" placeholder="Digite seu e-mail" required>
     </div>
 
