@@ -85,3 +85,6 @@ C:\Users\Claudio Matheus\Desktop\Projetos\C#\Login\LoginPage\LoginPage\bin\Debug
 C:\Users\Claudio Matheus\Desktop\Projetos\C#\Login\LoginPage\LoginPage\obj\Debug\net8.0\LoginPage.csproj.AssemblyReference.cache
 C:\Users\Claudio Matheus\Desktop\Projetos\C#\Login\LoginPage\LoginPage\obj\Debug\net8.0\LoginPage.sourcelink.json
 C:\Users\Claudio Matheus\Desktop\Projetos\C#\Login\LoginPage\LoginPage\obj\Debug\net8.0\LoginPage.csproj.Up2Date
+C:\Users\claud\OneDrive\Desktop\PROJETOS\PROJETOS\TelaLogin\Login_C-\LoginPage\obj\Debug\net8.0\LoginPage.dll
+C:\Users\claud\OneDrive\Desktop\PROJETOS\PROJETOS\TelaLogin\Login_C-\LoginPage\obj\Debug\net8.0\refint\LoginPage.dll
+C:\Users\claud\OneDrive\Desktop\PROJETOS\PROJETOS\TelaLogin\Login_C-\LoginPage\obj\Debug\net8.0\LoginPage.pdb
