@@ -2,7 +2,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Identity;
 using System.Linq;
+using System.Threading.Tasks;
 using LoginPage.Models;
+using Microsoft.AspNetCore.Http;
 
 namespace LoginPage.Controllers
 {
@@ -22,9 +24,21 @@ namespace LoginPage.Controllers
             return View();
         }
 
-        [HttpPost]
-        public IActionResult Login(string email, string senha)
+        [HttpGet]
+        public IActionResult Login()
         {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Login(string email, string senha)
+        {
+            if (string.IsNullOrEmpty(email) || string.IsNullOrEmpty(senha))
+            {
+                ModelState.AddModelError("", "Email e senha são obrigatórios.");
+                return View();
+            }
+
             var usuario = _context.Usuarios.FirstOrDefault(u => u.Email == email);
 
             if (usuario != null)
@@ -41,9 +55,28 @@ namespace LoginPage.Controllers
             return View();
         }
 
-        [HttpPost]
-        public IActionResult Register(string email, string senha, string nome)
+        [HttpGet]
+        public IActionResult Register()
         {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Register(string email, string senha, string nome)
+        {
+            if (string.IsNullOrEmpty(email) || string.IsNullOrEmpty(senha) || string.IsNullOrEmpty(nome))
+            {
+                ModelState.AddModelError("", "Todos os campos são obrigatórios.");
+                return View();
+            }
+
+            var usuarioExistente = _context.Usuarios.Any(u => u.Email == email);
+            if (usuarioExistente)
+            {
+                ModelState.AddModelError("", "Este email já está em uso.");
+                return View();
+            }
+
             var usuario = new Usuario
             {
                 Email = email,
@@ -52,7 +85,7 @@ namespace LoginPage.Controllers
             };
 
             _context.Usuarios.Add(usuario);
-            _context.SaveChanges();
+            await _context.SaveChangesAsync();
 
             return RedirectToAction("Login");
         }
